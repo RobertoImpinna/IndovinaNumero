@@ -18,8 +18,8 @@ import javafx.scene.layout.HBox;
 public class IndoNumeroController {
 
 	
-	private int NMAX=100;
-	private int TMAX=7;
+	private int NMAX = 100;
+	private int TMAX = 7;
 	
 	
 	private int segreto;
